@@ -21,7 +21,8 @@ Este projeto é um template de email marketing desenvolvido com HTML e CSS, foca
 - Google Fonts (Montserrat)
 
 ## Estrutura do Projeto 
-email-marketing/
+```
+	email-marketing/
 │
 ├── index.html
 ├── styles.css
@@ -30,6 +31,7 @@ email-marketing/
 ├── rolex_pratawebp.webp
 ├── roles_preto.jpg
 └── rolex_pretoedourado.jpg
+```
 
 ## Instalação
 
